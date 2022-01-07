@@ -1,0 +1,33 @@
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+hv1{
+  color: hotpink;
+  margin-left: 20px;
+}
+img{
+  width: 600px;
+  
+}
+.class1{
+  text-align: center;
+color: darkviolet;
+font-weight: bolder;
+}
+p{font-style: italic;
+}
+.Parpili{
+font-size: 30px;
+}
+.platums{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+table,td,th{
+  border:1px solid black; border-collapse:collapse; text-align: center;
+}
+th{
+  background: pink;
+}
